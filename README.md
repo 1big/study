@@ -134,14 +134,23 @@ https://github.com/zhihu/zhihu-rxjava-meetup
 　　扔物线大神朱凯结合知乎 Android 技术开发团队在北京进行了非常 Nice 的 RxJava 在 Android 中的开发交流，带了视频和 PPT，扔物线朱凯，业界良心。视频已经查看，推荐关注。
   
   ### 19、2018 年初值得关注的 25 个新 Android 库和项目
+  
   https://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652262613&idx=1&sn=898275df12a5513b79d4d4087cea8e3c&chksm=84dc6f42b3abe65423c44b93767f5b8ef63f692bf670cc4521ea161f30340cf97c776d357a45&mpshare=1&scene=23&srcid=0129fwmvmSVN0wLgvNO5IdpR#rd
   
   ### 20、开源的插件化框架
+  
 Qihoo360/DroidPlugin ：https://github.com/Qihoo360/DroidPlugin
+
 CtripMobile/DynamicAPK ：https://github.com/CtripMobile/DynamicAPK
+
 mmin18/AndroidDynamicLoader ： https://github.com/mmin18/AndroidDynamicLoader
+
 singwhatiwanna/dynamic-load-apk ：https://github.com/singwhatiwanna/dynamic-load-apk
+
 houkx/android-pluginmgr ：https://github.com/houkx/android-pluginmgr
+
 bunnyblue/ACDD  ：https://github.com/bunnyblue/ACDD
+
 wequick/Small  ：https://github.com/wequick/Small
+
 
