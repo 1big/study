@@ -153,4 +153,11 @@ bunnyblue/ACDD  ：https://github.com/bunnyblue/ACDD
 
 wequick/Small  ：https://github.com/wequick/Small
 
+#### 21、电商APP组件化探索
 
+https://juejin.im/post/5a6482f86fb9a01ca7138cbd
+
+#### 22、Router框架
+https://www.jianshu.com/p/f582c3893bed
+
+http://blog.csdn.net/u011404670/article/details/54883263
